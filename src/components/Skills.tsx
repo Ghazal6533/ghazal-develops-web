@@ -6,24 +6,22 @@ const Skills = () => {
       category: "Frontend",
       skills: [
         "React.js",
+        "Redux",
         "TypeScript",
         "JavaScript (ES6+)",
-        "HTML5 & CSS3",
         "Tailwind CSS",
         "Material UI",
-        "Responsive Design",
       ],
     },
     {
-      category: "State Management",
-      skills: ["Redux", "Redux Toolkit", "Context API"],
+      category: "Backend",
+      skills: ["Node.js", "Express.js", "REST APIs", "JWT Authentication", "MongoDB (basics)"],
     },
     {
       category: "Tools & Others",
       skills: [
         "Git & GitHub",
-        "REST APIs",
-        "JWT Authentication",
+        "Chrome DevTools",
         "Figma to React",
         "Performance Optimization",
         "Code Splitting & Lazy Loading",

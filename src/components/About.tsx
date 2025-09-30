@@ -30,13 +30,13 @@ const About = () => {
         
         <div className="max-w-3xl mx-auto mb-12">
           <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-            I'm a passionate Frontend Developer with a strong foundation in building modern web applications. 
-            My journey in software development is driven by a love for creating intuitive user experiences 
-            and solving complex problems through elegant code.
+            I'm a Fullstack Developer with 1+ year of professional experience in developing responsive, 
+            scalable, and high-performance web applications. Strong in frontend technologies like React.js, 
+            Tailwind CSS, and Redux, with hands-on experience in backend APIs, authentication, and database integration.
           </p>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            With expertise in React.js, TypeScript, and modern CSS frameworks, I specialize in transforming 
-            designs into pixel-perfect, responsive interfaces. I'm constantly learning and staying up-to-date 
+            My journey is driven by a passion for creating intuitive user experiences while building reliable 
+            backend systems. I'm constantly learning and growing into a stronger fullstack role, staying up-to-date 
             with the latest web technologies to deliver cutting-edge solutions.
           </p>
         </div>

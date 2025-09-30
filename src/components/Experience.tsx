@@ -31,34 +31,32 @@ const Experience = () => {
             <div className="flex items-start gap-3">
               <div className="w-2 h-2 bg-accent rounded-full mt-2 flex-shrink-0"></div>
               <p className="text-muted-foreground">
-                Built responsive and dynamic web pages using <strong>React.js</strong> and <strong>Tailwind CSS</strong>, 
-                ensuring cross-browser compatibility and mobile responsiveness
+                Built responsive user interfaces using <strong>React.js</strong>, <strong>Tailwind CSS</strong>, 
+                and <strong>Material UI</strong>
               </p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-2 h-2 bg-accent rounded-full mt-2 flex-shrink-0"></div>
               <p className="text-muted-foreground">
-                Integrated RESTful APIs and managed state using <strong>Redux</strong> for seamless data flow
+                Integrated REST APIs and optimized performance with lazy loading and code-splitting
               </p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-2 h-2 bg-accent rounded-full mt-2 flex-shrink-0"></div>
               <p className="text-muted-foreground">
-                Optimized application load time and performance through code splitting, lazy loading, and 
-                efficient rendering strategies
+                Collaborated with designers to turn Figma wireframes into accessible components
               </p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-2 h-2 bg-accent rounded-full mt-2 flex-shrink-0"></div>
               <p className="text-muted-foreground">
-                Collaborated closely with designers and backend developers to implement pixel-perfect UI/UX 
-                from Figma designs
+                Worked with backend teams to implement frontend-backend data flows
               </p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-2 h-2 bg-accent rounded-full mt-2 flex-shrink-0"></div>
               <p className="text-muted-foreground">
-                Participated in code reviews and maintained clean, reusable, and scalable component architecture
+                Implemented efficient state management solutions using <strong>Redux</strong> and <strong>Context API</strong>
               </p>
             </div>
           </div>

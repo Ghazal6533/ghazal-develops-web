@@ -12,13 +12,12 @@ const Hero = () => {
           Ghazala Shameem
         </h1>
         <h2 className="text-3xl md:text-5xl font-bold mb-6 text-muted-foreground">
-          Frontend Developer
+          Fullstack Developer
         </h2>
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8">
-          Creative and detail-driven Frontend Developer passionate about building{" "}
-          <span className="text-accent font-medium">responsive</span>,{" "}
-          <span className="text-accent font-medium">scalable</span>, and{" "}
-          <span className="text-accent font-medium">user-friendly</span> web applications.
+          Fullstack Developer passionate about crafting{" "}
+          <span className="text-accent font-medium">user-friendly</span> frontend interfaces and building{" "}
+          <span className="text-accent font-medium">reliable</span> backend systems.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
           <Button asChild size="lg" className="bg-gradient-to-r from-accent to-primary text-lg">

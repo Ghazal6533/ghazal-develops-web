@@ -45,11 +45,11 @@ const Projects = () => {
     {
       title: "Growth Society Banking App",
       description: "Secure banking application with robust authentication and financial API integration",
-      technologies: ["React.js", "JWT", "REST APIs", "Redux"],
+      technologies: ["React.js", "Node.js", "JWT", "REST APIs", "Redux"],
       highlights: [
-        "Implemented secure JWT-based authentication and authorization",
-        "Built role-based routing for different user privilege levels",
-        "Integrated financial APIs for transactions and account management",
+        "Built secure authentication & authorization with JWT (frontend + backend)",
+        "Implemented role-based routing for different user privilege levels",
+        "Integrated financial APIs for transactions and interest calculation logic",
         "Designed responsive dashboard with real-time balance updates",
       ],
       image: "/placeholder.svg",

@@ -18,7 +18,7 @@ const Education = () => {
             <div className="flex-1">
               <h3 className="text-2xl font-bold mb-2">Bachelor of Science in Computer Science</h3>
               <p className="text-lg text-accent font-medium mb-2">
-                Aligarh Muslim University
+                Aligarh Muslim University (Distance Learning)
               </p>
               <p className="text-muted-foreground">
                 Developed a strong foundation in computer science fundamentals, algorithms, 
