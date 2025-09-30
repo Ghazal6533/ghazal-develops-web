@@ -15,7 +15,7 @@ const Skills = () => {
     },
     {
       category: "Backend",
-      skills: ["Node.js", "Express.js", "REST APIs", "JWT Authentication", "MongoDB (basics)"],
+      skills: ["Node.js", "Express.js", "REST APIs", "JWT Authentication", "MongoDB"],
     },
     {
       category: "Tools & Others",

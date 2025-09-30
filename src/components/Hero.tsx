@@ -15,13 +15,16 @@ const Hero = () => {
           Fullstack Developer
         </h2>
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8">
-          Fullstack Developer passionate about crafting{" "}
-          <span className="text-accent font-medium">user-friendly</span> frontend interfaces and building{" "}
-          <span className="text-accent font-medium">reliable</span> backend systems.
+          Building seamless web applications from{" "}
+          <span className="text-accent font-medium">frontend</span> to{" "}
+          <span className="text-accent font-medium">backend</span>.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
           <Button asChild size="lg" className="bg-gradient-to-r from-accent to-primary text-lg">
-            <a href="#projects">View My Work</a>
+            <a href="#projects">View Projects</a>
+          </Button>
+          <Button asChild variant="outline" size="lg" className="text-lg">
+            <a href="/resume.pdf" download>Download Resume</a>
           </Button>
           <Button asChild variant="outline" size="lg" className="text-lg">
             <a href="#contact">Contact Me</a>

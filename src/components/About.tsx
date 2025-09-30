@@ -30,14 +30,19 @@ const About = () => {
         
         <div className="max-w-3xl mx-auto mb-12">
           <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-            I'm a Fullstack Developer with 1+ year of professional experience in developing responsive, 
-            scalable, and high-performance web applications. Strong in frontend technologies like React.js, 
-            Tailwind CSS, and Redux, with hands-on experience in backend APIs, authentication, and database integration.
+            I'm a <span className="text-accent font-medium">detail-driven Fullstack Developer</span> with 1+ year of 
+            professional experience building responsive, scalable, and high-performance web applications. I'm skilled in 
+            both frontend and backend technologies, delivering real-world solutions that make an impact.
+          </p>
+          <p className="text-lg text-muted-foreground leading-relaxed mb-6">
+            My expertise includes <span className="text-accent font-medium">React.js, TypeScript, Redux, Tailwind CSS, 
+            Node.js, Express.js, REST APIs, and MongoDB</span>. I'm passionate about writing clean, maintainable code 
+            and optimizing application performance to deliver seamless user experiences.
           </p>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            My journey is driven by a passion for creating intuitive user experiences while building reliable 
-            backend systems. I'm constantly learning and growing into a stronger fullstack role, staying up-to-date 
-            with the latest web technologies to deliver cutting-edge solutions.
+            Whether it's crafting intuitive user interfaces or building reliable backend systems, I bring dedication 
+            and a problem-solving mindset to every project. I'm committed to continuous learning and growing as a 
+            well-rounded fullstack developer.
           </p>
         </div>
 

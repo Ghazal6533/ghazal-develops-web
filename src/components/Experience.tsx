@@ -31,32 +31,26 @@ const Experience = () => {
             <div className="flex items-start gap-3">
               <div className="w-2 h-2 bg-accent rounded-full mt-2 flex-shrink-0"></div>
               <p className="text-muted-foreground">
-                Built responsive user interfaces using <strong>React.js</strong>, <strong>Tailwind CSS</strong>, 
-                and <strong>Material UI</strong>
+                Developed responsive user interfaces using <strong>React.js</strong>, <strong>TypeScript</strong>, 
+                and <strong>Tailwind</strong>
               </p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-2 h-2 bg-accent rounded-full mt-2 flex-shrink-0"></div>
               <p className="text-muted-foreground">
-                Integrated REST APIs and optimized performance with lazy loading and code-splitting
+                Implemented frontend-backend data flow with REST APIs
               </p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-2 h-2 bg-accent rounded-full mt-2 flex-shrink-0"></div>
               <p className="text-muted-foreground">
-                Collaborated with designers to turn Figma wireframes into accessible components
+                Optimized app performance (lazy loading, debounced search, code splitting)
               </p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-2 h-2 bg-accent rounded-full mt-2 flex-shrink-0"></div>
               <p className="text-muted-foreground">
-                Worked with backend teams to implement frontend-backend data flows
-              </p>
-            </div>
-            <div className="flex items-start gap-3">
-              <div className="w-2 h-2 bg-accent rounded-full mt-2 flex-shrink-0"></div>
-              <p className="text-muted-foreground">
-                Implemented efficient state management solutions using <strong>Redux</strong> and <strong>Context API</strong>
+                Collaborated with designers and backend teams to deliver production-ready applications
               </p>
             </div>
           </div>

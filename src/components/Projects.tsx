@@ -20,10 +20,10 @@ const Projects = () => {
   const projects: Project[] = [
     {
       title: "Evergreen POS",
-      description: "A high-performance Point of Sale system built with React, Redux, and TypeScript",
+      description: "Built a POS dashboard with React, Redux, TypeScript, and Material UI",
       technologies: ["React.js", "Redux", "TypeScript", "Material UI"],
       highlights: [
-        "Optimized application load time to under 200ms using code splitting and lazy loading",
+        "Reduced app load under 200ms with optimized routing and component structure",
         "Implemented debounced search functionality for efficient data filtering",
         "Built reusable component library following atomic design principles",
         "Integrated real-time inventory management with Redux state management",
@@ -32,7 +32,7 @@ const Projects = () => {
     },
     {
       title: "Atlanta Fence Company POS",
-      description: "Responsive POS application with real-time API integration and advanced data management",
+      description: "Designed responsive screens, integrated APIs, and ensured consistent UI/UX across devices",
       technologies: ["React.js", "TypeScript", "REST APIs", "Tailwind CSS"],
       highlights: [
         "Developed fully responsive screens adapting to various device sizes",
@@ -44,12 +44,12 @@ const Projects = () => {
     },
     {
       title: "Growth Society Banking App",
-      description: "Secure banking application with robust authentication and financial API integration",
+      description: "Implemented secure authentication and authorization with JWT, role-based routing, and backend APIs for financial operations",
       technologies: ["React.js", "Node.js", "JWT", "REST APIs", "Redux"],
       highlights: [
         "Built secure authentication & authorization with JWT (frontend + backend)",
         "Implemented role-based routing for different user privilege levels",
-        "Integrated financial APIs for transactions and interest calculation logic",
+        "Integrated backend APIs for transactions and interest calculation logic",
         "Designed responsive dashboard with real-time balance updates",
       ],
       image: "/placeholder.svg",

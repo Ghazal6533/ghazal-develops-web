@@ -16,9 +16,9 @@ const Education = () => {
               <GraduationCap className="w-6 h-6 text-accent" />
             </div>
             <div className="flex-1">
-              <h3 className="text-2xl font-bold mb-2">Bachelor of Science in Computer Science</h3>
+              <h3 className="text-2xl font-bold mb-2">B.Sc. Computer Science</h3>
               <p className="text-lg text-accent font-medium mb-2">
-                Aligarh Muslim University (Distance Learning)
+                Aligarh Muslim University
               </p>
               <p className="text-muted-foreground">
                 Developed a strong foundation in computer science fundamentals, algorithms, 
